@@ -1,0 +1,47 @@
+2022-06-16 10:23:18 ERROR UserDaoImplementation:148 - java.sql.SQLException: Illegal operation on empty result set.
+2022-06-19 21:19:39 ERROR ProductDaoImplementation:47 - java.sql.SQLException: Before start of result set
+2022-06-19 21:20:20 ERROR ProductDaoImplementation:47 - java.sql.SQLException: Before start of result set
+2022-06-19 21:20:35 ERROR ProductDaoImplementation:47 - java.sql.SQLException: Before start of result set
+2022-06-19 21:21:21 ERROR ProductDaoImplementation:47 - java.sql.SQLException: Before start of result set
+2022-06-19 21:23:08 ERROR ProductDaoImplementation:47 - java.sql.SQLException: Before start of result set
+2022-06-19 21:23:15 ERROR ProductDaoImplementation:47 - java.sql.SQLException: Before start of result set
+2022-06-20 21:38:22 ERROR BucketDaoImplementation:48 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`i_shop`.`bucket`, CONSTRAINT `user_id_FK` FOREIGN KEY (`user_id`) REFERENCES `user` (`id`))
+2022-06-20 21:41:43 ERROR BucketDaoImplementation:48 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`i_shop`.`bucket`, CONSTRAINT `user_id_FK` FOREIGN KEY (`user_id`) REFERENCES `user` (`id`))
+2022-06-22 11:10:49 ERROR BucketDaoImplementation:108 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:13:31 ERROR BucketDaoImplementation:108 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:15:36 ERROR BucketDaoImplementation:108 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:22:02 ERROR BucketDaoImplementation:108 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:22:12 ERROR BucketDaoImplementation:108 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:22:20 ERROR BucketDaoImplementation:108 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:22:44 ERROR BucketDaoImplementation:108 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:22:55 ERROR BucketDaoImplementation:108 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:22:58 ERROR BucketDaoImplementation:108 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:23:28 ERROR BucketDaoImplementation:108 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:23:29 ERROR BucketDaoImplementation:108 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:25:38 ERROR BucketDaoImplementation:108 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:26:28 ERROR BucketDaoImplementation:108 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:28:21 ERROR BucketDaoImplementation:108 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:37:04 ERROR BucketDaoImplementation:110 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:37:27 ERROR BucketDaoImplementation:110 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:37:29 ERROR BucketDaoImplementation:110 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:37:30 ERROR BucketDaoImplementation:110 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:47:39 ERROR BucketDaoImplementation:110 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:47:42 ERROR BucketDaoImplementation:110 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:50:55 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:50:56 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:53:14 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Column 'userId' not found.
+2022-06-22 11:54:00 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Column 'userId' not found.
+2022-06-22 11:54:23 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:56:14 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:56:38 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:57:35 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 11:59:55 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 12:05:11 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 12:05:12 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 12:59:57 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 13:00:12 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 13:10:47 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 13:14:53 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 13:16:57 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 13:20:05 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Zero date value prohibited
+2022-06-22 13:20:08 ERROR BucketDaoImplementation:107 - java.sql.SQLException: Zero date value prohibited
