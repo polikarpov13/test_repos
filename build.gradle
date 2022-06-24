@@ -1,0 +1,13 @@
+apply plugin: 'java-library'
+apply plugin: 'war'
+
+repositories {
+    mavenCentral()
+}
+
+
+
+dependencies {
+  compileOnly group: 'javax.servlet', name: 'servlet-api', version:'3.1.0'
+  compileOnly group: 'javax.servlet', name: 'servlet-jstl', version:'1.1.2'
+}
